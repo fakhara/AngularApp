@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Trattoria Science Park ",
+      "email": "info@trattoria.se",
+      "mobile": "0470723322",
+      "services": "pizza,Takeaway and koffee"
+    },
+    {
+      "id": 2,
+      "name": "Umami Monkey",
+      "email": "info@umami.se",
+      "mobile": "0470739000",
+      "address": "Storgatan 18, 35231 Växjö",
+      "services": "Lunch Buffe and Takeaway"
+    },
+    {
+      "id": 3,
+      "name": "Kungsgrillen Teleborg",
+      "email": "info@pizzeriatorinoteleborg.se",
+      "mobile": "47081300",
+      "address": "Smedsvängen, 352 45 Växjö",
+      "services": "Dine-in and Takeaway"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Fakhara Imran",
+      "email": "fakhara.imran82@gmail.com",
+      "mobile": "0767038944",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Amir Imran Ashraf",
+      "email": "amirimran84@hotmail.com",
+      "mobile": "0763092458",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
